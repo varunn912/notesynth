@@ -1,0 +1,5 @@
+{
+  "name": "Notesynth",
+  "description": "An AI-powered research assistant that transforms your documents and notes into a structured, interactive knowledge base. Add sources, ask questions, and watch as the AI automatically generates summaries, timelines, and key insights on a dynamic noteboard.",
+  "requestFramePermissions": []
+}
