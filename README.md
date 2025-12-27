@@ -208,9 +208,11 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Your Name**
+**kamshetty varun**
 Frontend / Full-Stack Developer
 
 * GitHub: [https://github.com/yourusername](https://github.com/varunn912)
 
 *NoteSynth is designed to demonstrate production
+
+DEMO: "https://drive.google.com/file/d/13vxZJzq9z2b3LUZ3E9GeAMZGQ7coWysJ/view?usp=drive_link"
